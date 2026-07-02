@@ -4,7 +4,6 @@
 
 Building scalable web and mobile applications while continuously learning new technologies.
 
-
 ## 👨‍💻 About Me
 
 - 💼 Full Stack Developer with 2+ years of experience
@@ -22,20 +21,9 @@ Building scalable web and mobile applications while continuously learning new te
   </a>
 </p>
 
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=yaswanth2002&show_icons=true&theme=tokyonight)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth2002&layout=compact&theme=tokyonight)
-
-
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yaswanth2002&theme=tokyonight)
-
 
 ## 📫 Connect With Me
 
