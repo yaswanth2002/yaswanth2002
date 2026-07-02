@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Yaswanth
 
-<!--
-**yaswanth2002/yaswanth2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | React Native | React | Vue.js | NestJS
 
-Here are some ideas to get you started:
+Building scalable web and mobile applications while continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👨‍💻 About Me
+
+- 💼 Full Stack Developer with 2+ years of experience
+- 📱 Building cross-platform mobile apps using React Native
+- ⚛️ Experienced in React and Vue.js
+- 🚀 Backend development with NestJS
+- 🗄️ PostgreSQL, Prisma, MySQL
+- 🌱 Currently learning System Design, AWS, and DSA
