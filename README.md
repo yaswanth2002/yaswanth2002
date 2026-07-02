@@ -21,3 +21,23 @@ Building scalable web and mobile applications while continuously learning new te
     <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind,nodejs,nestjs,postgres,mysql,prisma,docker,git,github,vscode,figma,androidstudio,postman&perline=9" />
   </a>
 </p>
+
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=yaswanth2002&show_icons=true&theme=tokyonight)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth2002&layout=compact&theme=tokyonight)
+
+
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yaswanth2002&theme=tokyonight)
+
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/yaswanth-shankar-230489185/
+- Email: yaswanthshankar2002@gmail.com
